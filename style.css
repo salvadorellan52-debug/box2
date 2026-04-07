@@ -1,0 +1,33 @@
+div{
+
+}
+.Box1{
+  background-color: aqua;
+  padding: 50px;
+  width: 50%;
+  border: black solid 30px;
+  
+  
+}
+
+.Box2{
+  background-color: pink;
+  padding: 50px;
+  width: 50%;
+  margin-left: 20%;
+  border-block: black solid 20px;
+  border-inline: black solid 10px;
+  
+  
+}
+
+.Box3{
+  background-color: aqua;
+  padding: 50px;
+  width: 50%; 
+  border-block: black solid 30px; 
+  
+
+}
+
+
